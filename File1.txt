@@ -2,3 +2,5 @@ This is the 1st line in the Local repo master.
 2nd line added to the local repo branch
 3rd line added to the github.com branch b1.
 4th line added to branch again for "git diff"
+5th line added to branch again for git checkout
+
