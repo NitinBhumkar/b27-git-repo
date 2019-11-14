@@ -3,4 +3,5 @@ This is the 1st line in the Local repo master.
 3rd line added to the github.com branch b1.
 4th line added to branch again for "git diff"
 5th line added to branch again for git checkout
+6th line added to branch of loal repo Git again. (5th line is merged to master)
 
